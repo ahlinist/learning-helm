@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: antonhlinisty/hello-from-container
-  tag: latest
+  tag: v2
   pullPolicy: IfNotPresent
 
 service:
